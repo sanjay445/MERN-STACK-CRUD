@@ -1,3 +1,3 @@
 # MERN-STACK-CRUD
-FRONTEND (Client) : src / public 
-BACKEND (Server)  : models / app.js
+# FRONTEND (Client) : src / public 
+# BACKEND (Server)  : models / app.js
